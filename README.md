@@ -89,7 +89,7 @@ API_HASH=esx576f8738x883f3sfzx83
 BOT_TOKEN=2119376106:AAFx98R0AuRrzPeIIbttn3-nlEIi2j4XZkw
 BIN_CHANNEL=-100
 PORT=8080
-FQDN=https://heroku.com
+FQDN=https://core.telegram.org/bots/api
 OWNER_ID=OWNER_ID=dehfulbot
 DATABASE_URL=mongodb_uri
 ```
